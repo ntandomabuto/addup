@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+}
+
+.container{
+    background-color: aqua;
+    height: 150px;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+input[type= text]{
+    border-radius: 1rem;
+    padding: 5px;
+}
+
+
+#btn{
+    width: 35%;
+    height: 20%;
+    margin: 10px;
+    border-radius: 1rem;
+    background-color: rgb(105, 105, 204);
+}
